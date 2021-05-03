@@ -1,12 +1,4 @@
 
-#Student Name: Antonio Caruso
-#Student Number: 19203608
-#Project Title: CA Part 3
-#Submission due: 24/07/2020
-#Lecturer: John Kelly 
-#############################
-
-####
 
 #1st Step: Read the file
 
